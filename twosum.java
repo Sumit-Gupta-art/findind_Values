@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class twosum {
+class twosum  {
     public static void main(String ... sumit)
     {
         Scanner sc=new Scanner(System.in);
